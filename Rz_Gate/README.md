@@ -1,3 +1,7 @@
-Rz gate. <br>
+Rz gate.
+
 S gate is Rz gate with z = pi/2. <br>
-S-dagger gate is Rz gate with z = -pi/2.
+Apply two S gates = Z gate
+
+S-dagger gate is Rz gate with z = -pi/2. <br>
+Apply S gate and apply S-dagger gate = identify matrix.
